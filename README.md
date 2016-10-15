@@ -7,14 +7,13 @@ El **_arxiuTXT.txt_** es un archivo **TXT** con formato plano con el siguiente t
 Al abrirlo con el _OpenOffice_ se visualiza correctamente (el acento también).
 
 2. ####[El archivo **HTML**](https://github.com/Fpocovi/Tarea1/blob/master/index.html)
-El **_index.html_** es el famoso "Hola mundo" escrito con el código **HTML**
-Lo he llamado _index.html_ ya que es como suele llamarse al primer archivo **HTML** de una  paguina _web_. Al abrirlo con _OpenOffice_ automáticamente lo transforma a texto plano
+El **_index.html_** es el famoso "Hola mundo" escrito con el código **HTML**. Lo he llamado _index.html_ ya que es como suele llamarse al primer archivo **HTML** de una  paguina _web_. Al abrirlo con _OpenOffice_ automáticamente lo transforma a texto plano.
 
 3. ####[El archivo **XML**](https://github.com/Fpocovi/Tarea1/blob/master/arxiuXML.xml)
 El **_arxiuXML.xml_** lo he creado con un ejemplo el qual está extraído de la _Wikipedia_ en el siguiente [_link_](https://es.wikipedia.org/wiki/Extensible_Markup_Language). Al ejecutarlo con el _OpenOffice_ se visualiza con sus correspondientes marcas de lenguaje.
 
 4. ####[El archivo **RTF**][linkRTF]
-EL **_arxiuRTF.rtf_** lo he creado con el ejemplo que está en la [_Wikipedia_](https://es.wikipedia.org/wiki/Rich_Text_Format). Al abrirlo con el _OpenOffice_ se comprueba que se ve perfectamente sin ningún tipo de problema(lo que está en **negrita** se ve perfectamente).
+EL **_arxiuRTF.rtf_** lo he creado con el ejemplo que está en la [_Wikipedia_](https://es.wikipedia.org/wiki/Rich_Text_Format). Al abrirlo con el _OpenOffice_ se comprueba que se ve perfectamente sin ningún tipo de problema (lo que está en **negrita** se ve correctamente).
 [linkRTF]:https://github.com/Fpocovi/Tarea1/blob/master/ArxiuRTF.rtf
 
 5. ####[El archivo **PS**](https://github.com/Fpocovi/Tarea1/blob/master/ArxiuPs.ps)
