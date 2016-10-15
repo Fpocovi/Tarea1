@@ -1,7 +1,7 @@
 #Tarea 1 de _"Introducció als Llenguatges de Marques"_
 ##Felip Pocoví Rubert
 ***
-1. ####[El archivo **TXT**](https://github.com/Fpocovi/Tarea1/blob/master/ArxiuTXT.txt)
+1. ####[El Arxiu**TXT**.TXT](https://github.com/Fpocovi/Tarea1/blob/master/ArxiuTXT.txt)
 Al abrir el archivo **TXT** con el _OpenOffice_ se visualiza correctamente (el acento también).
 
 2. ####[El archivo **HTML**](https://github.com/Fpocovi/Tarea1/blob/master/index.html)
