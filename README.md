@@ -17,3 +17,5 @@ Lo he creado con el ejemplo que esta en la [_Wikipedia_](https://es.wikipedia.or
 ####[El archivo **PS**](https://github.com/Fpocovi/Tarea1/blob/master/ArxiuPs.ps)
 El codigo de este ejemplo esta extraido de la _Wikipedia_ en el siguiente [enlace](https://es.wikipedia.org/wiki/PostScript) . Al abrirlo con el _OpenOffice_ se ve el codigo del archivo, pero no se ve el cuadrp que deberia verse.Para que el archivo se visualice correctamente lo he abierto con el programa gsview y se ve el cuadrado.
 
+####[El archivo **CSS**](https://github.com/Fpocovi/Tarea1/blob/master/ArxiuCSS.css)
+El codigo esta extraido de los apuntes aportados por el profesor. Al abrirlo con el _OpenOffice_ se ve el archivo con las marcas de lenguaje correspodientes.
