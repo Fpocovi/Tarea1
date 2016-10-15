@@ -1,11 +1,11 @@
 #Tarea 1 de "Introducció als Llenguatges de Marques"
 ##Felip Pocoví Rubert
-
+***
 1. ####[El archivo **TXT**](https://github.com/Fpocovi/Tarea1/blob/master/ArxiuTXT.txt)
-: Al abrirlo con el _OpenOffice_ se abre correctamente y se ve todo perfecto (el acento también).
+Al abrirlo con el _OpenOffice_ se abre correctamente y se ve todo perfecto (el acento también).
 
 2. ####[El archivo **HTML**](https://github.com/Fpocovi/Tarea1/blob/master/index.html)
-: Lo he llamado _index.html_ ya que es el nombre típico que se le pone al primer archivo **HTML** de una _web_. Al abrirlo con _OpenOffice_ automáticamente lo transforma a texto plano
+Lo he llamado _index.html_ ya que es el nombre típico que se le pone al primer archivo **HTML** de una _web_. Al abrirlo con _OpenOffice_ automáticamente lo transforma a texto plano
 
 3. ####[El archivo **XML**](https://github.com/Fpocovi/Tarea1/blob/master/arxiuXML.xml)
 El código esta extraído de la _Wikipedia_ en el siguiente [_link_](https://es.wikipedia.org/wiki/Extensible_Markup_Language). Al abrirlo con el _OpenOffice_ se abre con sus correspondientes marcas de lenguaje.
