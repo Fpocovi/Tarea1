@@ -19,3 +19,4 @@ El código de este ejemplo esta extraído de la _Wikipedia_ en el siguiente [enl
 
 6. ####[El archivo **CSS**](https://github.com/Fpocovi/Tarea1/blob/master/ArxiuCSS.css)
 El código esta extraído de los apuntes aportados por el profesor. Al abrirlo con el _OpenOffice_ se ve el archivo con las marcas de lenguaje correspondientes.
+***
