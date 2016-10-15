@@ -2,7 +2,8 @@
 ##Felip Pocoví Rubert
 
 1. ####[El archivo **TXT**](https://github.com/Fpocovi/Tarea1/blob/master/ArxiuTXT.txt)
-Al abrirlo con el _OpenOffice_ se abre correctamente y se ve todo perfecto (el acento también).
+
+* Al abrirlo con el _OpenOffice_ se abre correctamente y se ve todo perfecto (el acento también).
 
 2. ####[El archivo **HTML**](https://github.com/Fpocovi/Tarea1/blob/master/index.html)
 Lo he llamado _index.html_ ya que es el nombre típico que se le pone al primer archivo **HTML** de una _web_. Al abrirlo con _OpenOffice_ automáticamente lo transforma a texto plano
